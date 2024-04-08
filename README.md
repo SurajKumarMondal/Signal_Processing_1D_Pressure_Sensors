@@ -1,2 +1,2 @@
-# Signal_Processing_1D_Pressure_Sensors
+# Signal Processing of 1D Pressure Sensors
 This reposetory contains codes on MATLAB to process Pressure Signals.
